@@ -1,0 +1,9 @@
+{
+  "version": "2026-09-17",
+  "release_tag": "v2026.09.17",
+  "database_url": "https://github.com/alexgedz/podatkovyi-kodeks-updates/releases/download/v2026.09.17/pku.db",
+  "size": 8273920,
+  "sha256": "41c52004c493c5f53f6c28baeb0e2e8720259d4426e2eb77637c3cffa64f0c95",
+  "status": "test",
+  "source": "https://zakon.rada.gov.ua/laws/show/2755-17#Text"
+}
