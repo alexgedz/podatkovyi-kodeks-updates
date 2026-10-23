@@ -1,7 +1,7 @@
 {
   "version": "2026-09-17",
   "database_revision": 19,
-  "database_url": "https://github.com/alexgedz/podatkovyi-kodeks-updates/releases/download/v19-20260917/pku_2026-09-17_rev19.db",
+  "database_url": "https://github.com/alexgedz/podatkovyi-kodeks-updates/releases/download/rev19-20260917/pku_2026-09-17_rev19.db",
   "sha256": "e6e8cfc323e1b8178df6cbbeeb43742b0ad883d124495091f14cba1211655571",
   "size": 8773632
 }
