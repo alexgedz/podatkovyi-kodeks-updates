@@ -1,6 +1,6 @@
 {
   "version": "2026-10-23",
-  "database_url": "https://raw.githubusercontent.com/alexgedz/podatkovyi-kodeks-updates/main/pku_2026-10-23_r21.db",
+  "database_url": "https://github.com/alexgedz/podatkovyi-kodeks-updates/releases/download/db-r21/pku_2026-10-23_r21.db",
   "size": 9195520,
   "sha256": "067eeb4e1a10a3ef8d5df67e468f65199707f35550fb85bea4962ee83fca26a9",
   "status": "test",
